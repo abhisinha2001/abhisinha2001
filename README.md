@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java Spring Framework, Docker and kubernates
+- 🌱 Senior Sophister at Trinity College Dublin, Ireland.
 - 📫 How to reach me: insta@abhisinha0601
 - 😄 Pronouns: He/Him
 <!--
