@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Senior Sophister at Trinity College Dublin, Ireland.
-- 📫 How to reach me: insta@abhisinha0601
+- 📫 How to reach me: LinkedIn@
 - 😄 Pronouns: He/Him
 <!--
 **abhisinha2001/abhisinha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
