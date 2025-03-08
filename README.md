@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Technology Consultant at EY Dublin, Ireland
-- ⚡ Bacelor's in Computer Engineering @ Trinity College Dublin
+- 🌱 Software Engineer @IBM Dublin, Ireland
+- ⚡ Bachelor's in Computer Engineering @ Trinity College Dublin
 - 📫 How to reach me: LinkedIn@
 - 😄 Pronouns: He/Him
 <!--
