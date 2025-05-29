@@ -2,7 +2,7 @@
 
 - 🌱 Software Engineer @IBM Dublin, Ireland
 - ⚡ Bachelor's in Computer Engineering @ Trinity College Dublin
-- 📫 How to reach me: LinkedIn@
+- 📫 How to reach me: LinkedIn@https://www.linkedin.com/in/abhinavsinha0601/
 - 😄 Pronouns: He/Him
 <!--
 **abhisinha2001/abhisinha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
